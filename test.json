@@ -1,0 +1,10 @@
+{
+  "rooms": [
+    {
+      "living": {
+        "chairs": 4,
+        "sofas": 1
+      }
+    }
+  ]
+}
